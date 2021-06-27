@@ -1,0 +1,25 @@
+--insert into Students (Fname,Lname,DateOfBirth,YearOfJoin) values('Praful','Koppalkar','1999-08-08',2010);
+--insert into Students (Fname,Lname,DateOfBirth,YearOfJoin) values('Sneha','S','1999-06-24',2015);
+--insert into Students (Fname,Lname,DateOfBirth,YearOfJoin) values('Surin','Machaiah','08-10-1999',2020);
+--insert into Students (Fname,Lname,DateOfBirth,YearOfJoin) values('Bopanna','MJ','08-12-1999',2009);
+--insert into Students (Fname,Lname,DateOfBirth,YearOfJoin) values('Prajwal','Banakar','08-12-1999',2014);
+
+--insert into Teachers (Fname,Lname,Title,Subject) values('vinodini','V','Ast.Proffessor','Hindi');
+--insert into Teachers (Fname,Lname,Title,Subject) values('Rakesh','R','Proffessor','English');
+--insert into Teachers (Fname,Lname,Title,Subject) values('LingeGowda','L','Proffessor','Chemistry');
+
+--insert into Subjects (Name) values ('Hindi');
+--insert into Subjects (Name) values ('English');
+--insert into Subjects (Name) values ('Chemistry');
+--insert into Subjects (Name) values ('Mathematics');
+
+--insert into Classrooms values (1,1,2);
+--insert into Classrooms values (2,2,1);
+--insert into Classrooms values (3,3,3);
+
+--insert into StudentClasses (ClassroomId,StudentId) values(1,1);
+--insert into StudentClasses (ClassroomId,StudentId) values(1,2);
+--insert into StudentClasses (ClassroomId,StudentId) values(2,3);
+--insert into StudentClasses (ClassroomId,StudentId) values(3,4);
+--insert into StudentClasses (ClassroomId,StudentId) values(3,1);
+--insert into StudentClasses (ClassroomId,StudentId) values(3,5);
